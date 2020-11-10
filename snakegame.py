@@ -55,6 +55,5 @@ def message_box(subject, content):
 def main():
     win = pygame.display.set_mode()
 
-print("yes")
 
 main()
